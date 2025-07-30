@@ -12,9 +12,15 @@
 #     shield: reviung41
 #
 ---
+# include:
+#   - board: mikoto@5.20
+#     shield: lily58_left nice_view_adapter nice_view
+#     snippet: studio-rpc-usb-uart
+#   - board: mikoto@5.20
+#     shield: lily58_right nice_view_adapter nice_view
+
 include:
   - board: mikoto@5.20
-    shield: lily58_left nice_view_adapter nice_view
-    snippet: studio-rpc-usb-uart
+    shield: lily58_left
   - board: mikoto@5.20
-    shield: lily58_right nice_view_adapter nice_view
+    shield: lily58_right
