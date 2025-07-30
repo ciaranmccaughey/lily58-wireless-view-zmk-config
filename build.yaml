@@ -13,8 +13,8 @@
 #
 ---
 include:
-  - board: mikoto 
+  - board: mikoto@5.20
     shield: lily58_left nice_view_adapter nice_view
     snippet: studio-rpc-usb-uart
-  - board: mikoto
+  - board: mikoto@5.20
     shield: lily58_right nice_view_adapter nice_view
